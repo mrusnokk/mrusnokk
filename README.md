@@ -60,15 +60,6 @@ Text lives behind an `ITextBuffer` interface and is stored in a **rope** data st
 | [**ZPG**](https://github.com/mrusnokk/ZPG) | Computer graphics in **OpenGL** (GLFW, GLAD, GLM): shader programs, materials and lighting built with the observer pattern |
 | [**projektDB2**](https://github.com/mrusnokk/projektDB2) | **ASP.NET MVC** database project with the repository pattern |
 
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mrusnokk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrusnokk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
-
-</div>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="" />
