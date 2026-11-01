@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Michael%20Rusnok&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20%C2%B7%20C%2FC%2B%2B%20%C2%B7%20&descAlignY=58&descSize=18" alt="Michael Rusnok" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Michael%20Rusnok&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student&descAlignY=58&descSize=18" alt="Michael Rusnok" />
 </div>
 
 ---
