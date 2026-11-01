@@ -40,17 +40,17 @@
 A Doom-style retro FPS written in **C++ and SDL3** with my own raycasting implementation.
 Textured walls and floors, a z-buffer for sprite rendering, multithreaded rendering, three weapons with their own fire rates, and enemies with pathfinding AI. Built with CMake and structured as a clean OOP engine.
 
-### 🃏 [BANG! Online](https://github.com/mrusnokk/BANG-online)
+### 🚲 Bike-sharing system (C# / ASP.NET)
+A web application for a shared-bike service built in **C#** with **ASP.NET**.
+It models bikes, stations, rentals, customers and bike status history, on a layered architecture (repositories and services) with a **SQLite** database.
+
+### 🃏 [BANG! Online](https://github.com/mrusnokk/BANG-online) 🚧 *work in progress*
 A web version of the card game *Bang!* with real-time multiplayer.
 **React (Vite)** on the frontend, **Node.js + Express + Socket.io** on the backend.
 
-### ✍️ [TTEditor](https://github.com/mrusnokk/BP-TTEditor)
+### ✍️ [TTEditor](https://github.com/mrusnokk/BP-TTEditor) 🚧 *work in progress*
 A terminal text editor in **C++17** using **ncurses**, with separate edit and command modes.
 Text lives behind an `ITextBuffer` interface and is stored in a **rope** data structure for efficient edits.
-
-### 🌐 [Personal portfolio](https://github.com/mrusnokk/MyPortfolio)
-A responsive **React** portfolio with a cyberpunk/neon look in plain CSS (glassmorphism, animations).
-It loads my latest repositories live from the **GitHub REST API**.
 
 ## 📂 More projects
 
@@ -58,7 +58,6 @@ It loads my latest repositories live from the **GitHub REST API**.
 | :-- | :-- |
 | [**OSY**](https://github.com/mrusnokk/OSY) | Operating systems coursework in C/C++: logging, client–server communication over sockets, shared libraries |
 | [**ZPG**](https://github.com/mrusnokk/ZPG) | Computer graphics in **OpenGL** (GLFW, GLAD, GLM): shader programs, materials and lighting built with the observer pattern |
-| [**VIS-PROJEKT**](https://github.com/mrusnokk/VIS-PROJEKT) | Bike-sharing web app in **ASP.NET** (bikes, stations, rentals, customers) with a layered repository/service architecture and SQLite |
 | [**projektDB2**](https://github.com/mrusnokk/projektDB2) | **ASP.NET MVC** database project with the repository pattern |
 
 ## 📊 GitHub stats
