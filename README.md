@@ -1,11 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Michael%20Rusnok&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20%C2%B7%20C%2FC%2B%2B%20%C2%B7%20Operating%20Systems&descAlignY=58&descSize=18" alt="Michael Rusnok" />
-
-<a href="https://github.com/mrusnokk">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Ahoj%2C+jsem+Michael+%F0%9F%91%8B;Programuji+v+C%2FC%2B%2B;Zaj%C3%ADm%C3%A1m+se+opera%C4%8Dn%C3%ADmi+syst%C3%A9my;U%C4%8D%C3%ADm+se+nov%C3%A9+v%C4%9Bci+ka%C5%BEd%C3%BD+den" alt="Typing SVG" />
-</a>
-
 </div>
 
 ---
@@ -13,8 +8,6 @@
 ## 👨‍💻 O mně
 
 - 🎓 Studuji a věnuji se programování, především v **C/C++**
-- 🖥️ Baví mě **operační systémy**, síťová komunikace a práce na nízké úrovni
-- 🌱 Právě se učím: procesy, vlákna, sockety a sdílené knihovny
 - 📫 Kontakt: [michael.rusnok@gmail.com](mailto:michael.rusnok@gmail.com)
 
 ## 🛠️ Technologie
