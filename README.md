@@ -40,9 +40,9 @@
 A Doom-style retro FPS written in **C++ and SDL3** with my own raycasting implementation.
 Textured walls and floors, a z-buffer for sprite rendering, multithreaded rendering, three weapons with their own fire rates, and enemies with pathfinding AI. Built with CMake and structured as a clean OOP engine.
 
-### 🚲 Bike-sharing system (C# / ASP.NET)
+### 🚲 [Bike-sharing system](https://github.com/mrusnokk/VIS-PROJEKT) (C# / ASP.NET)
 A web application for a shared-bike service built in **C#** with **ASP.NET**.
-It models bikes, stations, rentals, customers and bike status history, on a layered architecture (repositories and services) with a **SQLite** database.
+Customers rent and return bikes between stations, with rental history and per-station statistics. It has a layered architecture (repositories and services), a **SQLite** database and a **REST API** with token authentication, and tracks the status history of every bike.
 
 ### 🃏 [BANG! Online](https://github.com/mrusnokk/BANG-online) 🚧 *work in progress*
 A web version of the card game *Bang!* with real-time multiplayer.
